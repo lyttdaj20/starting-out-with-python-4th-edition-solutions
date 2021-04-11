@@ -5,14 +5,16 @@ def main():
     
     n = int(input('Enter Number: '))
     
-    recursive_printer(n)
-  
-def recursive_printer(n):
+    i = 0
     
-    if n > 0:
+    recursive_printer(i, n)
+  
+def recursive_printer(i, n):
+    
+    if i <= n:
         
-        print(n)
+        print(i)
         
-        recursive_printer(n - 1)
+        recursive_printer(i + 1, n)
     
 main()
