@@ -1,7 +1,11 @@
 Solutions to end of chapter exercises (excluding turtle graphics) in Starting Out with Python® 
 4th Edition, by Tony Gaddis. All exercises completed by me. 
 
+<<<<<<< HEAD
 Each file is numbers by Chapter and Exercise Number (e.g. 05-02 is Exercise 2 in Chapter 5)
+=======
+Each file is numbered by Chapter and Exercise Number (e.g. 05-02 is Exercise 2 in Chapter 5)
+>>>>>>> 51f83edda6cca0820a61e4cd04e7dea554396af5
 
 Chapters
     2: Input, Processing, and Output
@@ -21,4 +25,8 @@ by your institution's guidelines.
 
 NOTE: This repository does not inlcude solutions to the following
     Turtle Graphics Exercise
+<<<<<<< HEAD
     GUI (Chapter 13)
+=======
+    GUI (Chapter 13)
+>>>>>>> 51f83edda6cca0820a61e4cd04e7dea554396af5
