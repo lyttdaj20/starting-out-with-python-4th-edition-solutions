@@ -22,7 +22,7 @@ by your institution's guidelines.
 NOTE: This repository does not inlcude solutions to the following
     Turtle Graphics Exercise
     GUI Programming (Chapter 13)
-    Student Source Code Problems (08-15)
+    Student Source Code Problems (08-14,15)
     Review Questions
 
 
