@@ -19,7 +19,7 @@ Chapters
 This is intended for personal use. If you are using this book for a school course, please abide 
 by your institution's guidelines.
 
-NOTE: This repository does not inlcude solutions to the following
+NOTE: This repository does NOT inlcude solutions to the following
     Turtle Graphics Exercise
     GUI Programming (Chapter 13)
     Student Source Code Problems (08-14,15)
