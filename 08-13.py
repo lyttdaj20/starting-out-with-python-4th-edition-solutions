@@ -7,12 +7,9 @@ def main():
     
     translation = ''
     
-    index = 0
     word = ''
 
     for ch in sentence:
-    
-        index += 1
     
         if ch != ' ':
             
