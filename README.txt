@@ -21,6 +21,7 @@ by your institution's guidelines.
 
 NOTE: This repository does not inlcude solutions to the following
     Turtle Graphics Exercise
-    GUI (Chapter 13)
+    GUI Programming (Chapter 13)
+    Review Questions
 
 
