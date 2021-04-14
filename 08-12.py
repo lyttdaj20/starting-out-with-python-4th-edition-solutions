@@ -13,7 +13,7 @@ def main():
 
     for ch in sentence:
     
-        if ch.islower():
+        if ch.isupper() == False:
             
             word += ch
     
