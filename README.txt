@@ -19,10 +19,10 @@ Chapters
 This is intended for personal use. If you are using this book for a school course, please abide 
 by your institution's guidelines.
 
-NOTE: This repository does not inlcude solutions to the following
-    Turtle Graphics Exercise
+NOTE: This repository does NOT inlcude solutions to exercises which:
+    Use Turtle Graphics
+    Use matplotlip 
+    Requires Student Source Code 
     GUI Programming (Chapter 13)
-    Student Source Code Problems (08-14,15)
-    Review Questions
 
 
