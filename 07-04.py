@@ -7,7 +7,7 @@ def main():
     
     for i in range(20):
         
-        numbers.append(int(input('Enter Number ' + str(i + 1) + ': ')))
+        numbers.append(float(input('Enter Number ' + str(i + 1) + ': ')))
     
     low = numbers[0]
     high = numbers[0]
