@@ -1,5 +1,5 @@
-Solutions to end of chapter exercises in Starting Out with Python® 
-4th Edition, by Tony Gaddis. All exercises completed by me. 
+Solutions to end of chapter exercises in Starting Out with Python® 4th Edition, by Tony Gaddis. 
+All exercises completed by me.
 
 Each file is numbered by Chapter and Exercise Number (e.g. 05-02 is Exercise 2 in Chapter 5)
 
@@ -16,8 +16,7 @@ Chapters
     11: Inheritance
     12: Recursion
 
-This is intended for personal use. If you are using this book for a school course, please abide 
-by your institution's guidelines.
+This is intended for personal use. If you are using this book for a school course, please abide by your institution's guidelines.
 
 NOTE: This repository does NOT inlcude solutions to exercises which:
     Use Turtle Graphics
